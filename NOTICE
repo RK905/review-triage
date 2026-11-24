@@ -1,0 +1,17 @@
+review-triage
+
+This project contains a modified version of skills/receiving-code-review/
+(SKILL.md) from https://github.com/obra/superpowers,
+Copyright (c) 2025 Jesse Vincent, licensed under the MIT License (see LICENSE).
+
+Modified by Rayen Kamta / GeeksDoByte (Rayen@geeksdobyte.com), 2026.
+
+Changes: renamed; rewrote as a shorter, self-contained SKILL.md; merged the
+six-step response pattern, the unclear-feedback rule, and the implementation
+order into one seven-step loop; turned the external-reviewer checklist and
+YAGNI check into a single "checking an item" table with concrete ways to
+verify each point (blame/log, caller search, tests); merged the "forbidden
+responses", "acknowledging correct feedback", "common mistakes", and "real
+examples" sections into one reply guide with a per-item reply template;
+generalized "your human partner" wording to work with any harness, user, bot,
+or agent reviewer.
